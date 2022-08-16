@@ -1,0 +1,13 @@
+nav{
+    background-color:bisque;
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index:100;
+}
+.bgmain{
+    /* background-image: url("https://www.transparenttextures.com/patterns/always-grey.png"); */
+    background-color: aqua;
+    background-image: url('./Components/Styles/wallpaperflare.com_wallpaper.jpg');
+
+}

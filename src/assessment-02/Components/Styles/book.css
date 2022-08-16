@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://patternico.com/emoji/#sCZT7pknVvmNLrsJ");
+    padding-top: 5rem;
+}
+
+.card{
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(255, 244, 193);
+    background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
+}
+.card:hover{
+    box-shadow: 0px 0px 1px 2px #4d4d4d;
+    transition: all .2s linear;
+    transform: scale(1.05);
+}
+button{
+    padding: 10px;
+    margin: 10px;
+}
+img{
+    width: 50%;
+}
+h3{
+    padding:5px;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;
+}

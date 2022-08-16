@@ -1,0 +1,23 @@
+body{
+    /* background-color:rgb(255, 226, 190); */
+    /* background-image: url('https://patternico.com/#Z185ajALnINkaXpd'); */
+    background-image: url(./data/tile_background\ \(1\).png);
+    padding-top:1%;
+    margin: 0px 120px 0px 120px;
+}
+
+
+
+.card{
+    margin: 10px;
+    padding: 20px;
+}
+.p1{
+    background-color: red;
+}
+.p2{
+    background-color: orange;
+}
+.p3{
+    background-color: green;
+}
