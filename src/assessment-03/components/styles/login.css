@@ -1,0 +1,23 @@
+.loginbox{
+    background-color: bisque;
+    margin: 100px;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    padding: 51px;
+}
+
+.loginBody{
+    background-color:chartreuse;
+    background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+h3{
+    text-align: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+form{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}

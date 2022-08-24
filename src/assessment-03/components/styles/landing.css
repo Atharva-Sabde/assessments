@@ -1,0 +1,34 @@
+
+.tagline{
+    color: bisque;
+    margin-top: 10rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    padding:10px;
+    text-align: center;
+    background-color: black;
+    border: solid 4px;
+    border-color: rgb(92, 255, 11);
+}
+
+.start{
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+}
+.startbtn{
+    color: bisque;
+    border-radius: 10px;
+    background-color: black;
+    border: solid 4px;
+    border-color: rgb(92, 255, 11);
+}
+
+.bghome{
+    background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
+    /* background-color: aqua; */
+    background-image: url('./images/bg.jpg');
+    padding: 5px;
+    
+}
+

@@ -1,0 +1,50 @@
+img {
+    float: right;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.productContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+.card {
+    background: rgb(255, 244, 127);
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.btn {
+    border: 1px;
+    background-color:greenyellow;
+    padding: 5px 10px;
+    color: rgb(0, 0, 0);
+    border-radius: 0px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background: #000000;
+    color:greenyellow;
+}
+.pbody{
+    background-color: bisque;
+    background-image: url("https://www.transparenttextures.com/patterns/arabesque.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.filter{
+    background-color: black;
+    color: wheat;
+}
+
+.searchForm{
+    margin-left: 5rem;
+    margin-right: 70rem;
+    padding: 10px;
+}

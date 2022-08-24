@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(102, 224, 54);
+    padding: 10px;
+    /* position:fixed; */
+    color:red;
+}
+h5{
+    margin-left: 40px;
+}
+
+
+
+
+
