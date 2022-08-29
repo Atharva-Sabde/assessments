@@ -10,7 +10,7 @@ import Cart from './components/Cart'
 import './main.css'
 
 
-function Main() {
+function Main(){
     return (
         <>
             <nav className='nav'>
@@ -31,7 +31,6 @@ function Main() {
             </Provider>
             <Footer></Footer>
         </>
-
     )
 }
 

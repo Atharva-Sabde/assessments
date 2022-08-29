@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-items: normal;
+
+
+    border: 2px solid black;
+    margin-top: 10%;
+    width: 30rem;
+    padding: 5rem;
+}
+label{
+    align-items: center;
+    text-align: center;
+}
+button , input , label{
+    margin-bottom: 10px;
+}
